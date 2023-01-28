@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1655088514569" stop="1655088515240" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default Suite : PageObjectPatternTemplate</name>
+    <title>Default Suite : PageObjectPatternTemplate</title>
+    <test-cases>
+        <test-case start="1655088514709" stop="1655088515240" status="passed">
+            <name>fromJson</name>
+            <description></description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Default Suite"/>
+                <label name="testGroup" value="PageObjectPatternTemplate"/>
+                <label name="testClass" value="com.qa.java.PagesTest.readFile"/>
+                <label name="testMethod" value="fromJson"/>
+                <label name="host" value="DESKTOP-0D017F8"/>
+                <label name="thread" value="5800@DESKTOP-0D017F8.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

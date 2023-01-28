@@ -1,0 +1,24 @@
+{
+    "RegisterEmail": [
+     {
+          "First Name": "John",
+          "Last Name": "Miguel",
+          "Email": "John@gmail.com",
+          "password": "Test123456"
+        },
+      {
+          "First Name": "Alberto",
+          "Last Name": "Miguel",
+          "Email": "John@gmail.com",
+          "password": "Test123456"
+        },
+      {
+        "First Name": "Maria",
+        "Last Name": "Miguel",
+        "Email": "John@gmail.com",
+        "password": "Test123456"
+      }
+    ]
+}
+
+
